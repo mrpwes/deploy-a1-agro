@@ -1,1 +1,0 @@
-import{P as e}from"./PageHeader.73baacb7.js";import{o as a,c as r,d as t,a3 as o,a as s}from"./index.75911f42.js";import"./pageHeader.81f774ac.js";const c=s("div",null,"TESTT",-1),i={__name:"AdminPayrollSheetPage",setup(n){return(l,m)=>(a(),r(o,null,[t(e,{currentPage:"Payroll Sheet"}),c],64))}};export{i as default};
