@@ -1,0 +1,1 @@
+import{P as e}from"./PageHeader.3f72b38b.js";import{o as r,a5 as a}from"./index.4c79402b.js";import"./pageHeader.c77d3651.js";const n={__name:"AdminReportsPage",setup(o){return(t,p)=>(r(),a(e,{currentPage:"Reports"}))}};export{n as default};
