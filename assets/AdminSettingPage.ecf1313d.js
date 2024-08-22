@@ -1,1 +1,0 @@
-import{P as e}from"./PageHeader.3f72b38b.js";import{o as t,a5 as r}from"./index.4c79402b.js";import"./pageHeader.c77d3651.js";const s={__name:"AdminSettingPage",setup(a){return(o,n)=>(t(),r(e,{currentPage:"Setting"}))}};export{s as default};
