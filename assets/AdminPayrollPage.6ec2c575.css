@@ -1,0 +1,1 @@
+td{padding:5px}.noScreen{display:none}@media print{body{visibility:hidden}.noScreen{display:block}#section-to-print{transform:scale(.6);visibility:visible;position:absolute;left:0;right:0;top:0;transform-origin:top left}}
