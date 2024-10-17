@@ -1,2 +1,2 @@
-#GENERATE SPA
+# GENERATE SPA
 quasar build --history
