@@ -1,1 +1,1 @@
-var o="/deploy-a1-agro/assets/logo.fb78ff44.png";export{o as _};
+var s="/assets/logo.fb78ff44.png";export{s as _};
